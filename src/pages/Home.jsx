@@ -41,7 +41,7 @@ const Home = () => {
         <div className='mb-5'>
           <div className='relative w-full'>
             <img className='w-full h-36 md:h-56' src={home} alt="" />
-            <h1 className='absolute top-10 left-1/2 -translate-x-1/2 text-xl text-red-900 font-bold sm:text-2xl sm:top-14 md:text-4xl md:top-16 lg:text-5xl'>Bola tv  </h1>
+            <h1 className='absolute top-10 left-1/2 -translate-x-1/2 text-xl text-red-900 font-bold sm:text-2xl sm:top-14 md:text-4xl md:top-16 lg:text-5xl'>Bolalar sadosi</h1>
           </div>
         </div>
 
